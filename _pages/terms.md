@@ -27,10 +27,7 @@ LingoBee is an educational app designed for children ages 2-5 to learn English v
 <br>
 
 ## 3. Subscriptions
-LingoBee offers a freemium model with optional auto-renewable subscriptions:
-
-- **Monthly:** $2.99/month
-- **Yearly:** $14.99/year
+LingoBee offers a freemium model with optional auto-renewable subscriptions. Current pricing is displayed within the App and on the App Store listing.
 
 Subscriptions are managed through your Apple ID and are subject to Apple's terms and conditions. You can cancel at any time through your device's subscription settings.
 
